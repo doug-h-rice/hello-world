@@ -17,3 +17,15 @@ box same "Pikchr" "Formatter" "(pikchr.c)" fit
 ```
 
 This did does not work.
+
+# Diagram using mermaid
+
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
