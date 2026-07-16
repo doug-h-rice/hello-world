@@ -8,7 +8,7 @@ The MK14 and Nascom 2 have provided a chance to learn about micro-processors.
 # pikchr 
 
 This is a try of pikchr
-``` pikchr
+```pikchr
 arrow right 200% "Markdown" "Source"
 box rad 10px "Markdown" "Formatter" "(markdown.c)" fit
 arrow right 200% "HTML+SVG" "Output"
