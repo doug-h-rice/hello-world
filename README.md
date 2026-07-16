@@ -24,8 +24,14 @@ Here is a simple flow chart:
 
 ```mermaid
 graph TD;
-    A-->B;
+    A-->B ;
     A-->C;
     B-->D;
     C-->D;
+```
+
+# ruby
+
+```ruby
+   puts "Hello World"
 ```
