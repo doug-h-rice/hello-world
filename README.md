@@ -29,6 +29,11 @@ graph TD;
     B-->D;
     C-->D;
 ```
+# Diagram using mermaid version
+
+```mermaid
+  info
+```
 
 # ruby
 
